@@ -1,40 +1,31 @@
-from typing import List
+
 
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-
-        def findFirst():
-            low, high = 0, len(nums) - 1
+        def leftSearch(nums, target):
+            l, r = 0, len(nums) - 1
             ans = -1
-
-            while low <= high:
-                mid = (low + high) // 2
-
+            while l <= r:
+                mid = (l + r) // 2
+                if nums[mid] >= target:
+                    r = mid - 1
+                else:
+                    l = mid + 1
                 if nums[mid] == target:
                     ans = mid
-                    high = mid - 1
-                elif nums[mid] < target:
-                    low = mid + 1
-                else:
-                    high = mid - 1
-
             return ans
 
-        def findLast():
-            low, high = 0, len(nums) - 1
+        def rightSearch(nums, target):
+            l, r = 0, len(nums) - 1
             ans = -1
-
-            while low <= high:
-                mid = (low + high) // 2
-
+            while l <= r:
+                mid = (l + r) // 2
+                if nums[mid] <= target:
+                    l = mid + 1
+                else:
+                    r = mid - 1
                 if nums[mid] == target:
                     ans = mid
-                    low = mid + 1
-                elif nums[mid] < target:
-                    low = mid + 1
-                else:
-                    high = mid - 1
-
             return ans
 
-        return [findFirst(), findLast()]
+        return [leftSearch(nums, target), rightSearch(nums, target)]

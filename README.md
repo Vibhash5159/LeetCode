@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vibhash5159/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vibhash5159/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Vibhash5159/LeetCode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Vibhash5159/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Vibhash5159/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Vibhash5159/LeetCode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vibhash5159/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vibhash5159/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vibhash5159/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vibhash5159/LeetCode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Vibhash5159/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vibhash5159/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Vibhash5159/LeetCode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Vibhash5159/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Vibhash5159/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -113,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Vibhash5159/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Vibhash5159/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

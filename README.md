@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vibhash5159/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Vibhash5159/LeetCode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Vibhash5159/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Vibhash5159/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vibhash5159/LeetCode/tree/master/0242-valid-anagram) |
@@ -120,4 +121,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Vibhash5159/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Vibhash5159/LeetCode/tree/master/0739-daily-temperatures) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Vibhash5159/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Vibhash5159/LeetCode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Vibhash5159/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

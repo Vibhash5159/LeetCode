@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vibhash5159/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Vibhash5159/LeetCode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vibhash5159/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/Vibhash5159/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vibhash5159/LeetCode/tree/master/0022-generate-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Vibhash5159/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
